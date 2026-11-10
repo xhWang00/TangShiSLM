@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 训练产物
+ckpt.pt
+loss_curve.png
+tokenizer.json
